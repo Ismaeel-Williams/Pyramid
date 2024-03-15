@@ -1,0 +1,27 @@
+#pyramid {
+  text-align: center;
+}
+
+.block {
+  display: inline-block;
+  background-color: grey;
+  height: 50px;
+  width: 50px;
+  border: solid black 2px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
+
+.layer {
+  height: 50px;
+  width: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.input-box {
+  align-self: center;
+}
